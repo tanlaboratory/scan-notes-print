@@ -1,0 +1,4 @@
+interface:
+  display_name: "扫描笔记彩色打印"
+  short_description: "快速去灰底、保留彩色笔迹并增强清晰度，生成省墨的扫描笔记打印版"
+  default_prompt: "使用 $scan-notes-print 将这份扫描笔记制作成保留红笔、白底清晰的彩色打印 PDF。"
